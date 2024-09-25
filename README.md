@@ -20,4 +20,4 @@ It is built using basic HTML with minimal inline CSS for styling.
 - Exam Times: 8:00 a.m., 10:00 a.m., 1:00 p.m., and 3:00 p.m.
 - HOME: A separate column spanning 5 rows for additional categorization.
 
-`Deployment Link`:
+## `Deployment Link`: https://vjabhi000985.github.io/Full_Stack_Internship/Assignment_1/index.html
